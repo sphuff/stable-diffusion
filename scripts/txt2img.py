@@ -1,3 +1,5 @@
+import sys
+sys.path.append('/stable-diffusion')
 import argparse, os, sys, glob
 import cv2
 import torch
